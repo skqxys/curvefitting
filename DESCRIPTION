@@ -1,0 +1,18 @@
+Package: curvefitting
+Title: fitting curve XXXXXXXX
+Version: 0.0.1
+Authors@R: 
+    person(given = "Pan",
+           family = "Gao",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+Depends: ggplot2,
+         minpack.lm, 
+         eoffice,
+         magrittr
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
